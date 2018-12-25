@@ -1,0 +1,48 @@
+(ExpressProject "Commercial_POW_V1_00"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\commercial_pow_v1_00.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (BQ25703ARSNR
+      (FullPartName "BQ25703ARSNR.Normal")
+      (LibraryName
+         "C:\ULTRALIBRARIAN\LIBRARY\EXPORTED\ORCAD\2018-12-25_09-27-22\2018-12-25_09-27-22.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "D:\Cadence\Cadence_SPB_16.6\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "E:\git-repositories\Hardware\Commercial_POW_V1.00\commercial_pow_v1_00.dsn")
+      (Path "Design Resources"
+         "E:\git-repositories\Hardware\Commercial_POW_V1.00\commercial_pow_v1_00.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "E:\git-repositories\Hardware\Commercial_POW_V1.00\commercial_pow_v1_00.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 235 0 558"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 231 1383 0 558")
+        (Scroll "-227 -3")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path
+         "E:\GIT-REPOSITORIES\HARDWARE\COMMERCIAL_POW_V1.00\COMMERCIAL_POW_V1_00.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
